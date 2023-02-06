@@ -1,0 +1,10 @@
+
+path: ../datasets/coco  # dataset root dir
+train: G:/summer/yolo5/yolov5/data/train.txt  # train images (relative to 'path') 118287 images
+val: G:/summer/yolo5/yolov5/data/val.txt  # val images (relative to 'path') 5000 images
+test: G:/summer/yolo5/yolov5/data/test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 1  # number of classes
+names: ['shrimp']  # class names
+
