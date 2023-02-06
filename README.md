@@ -1,2 +1,2 @@
 # Object_Detection
- ObjectDetection and Android deployment
+ ObjectDetection Based on YOLOv5 and Android deployment
